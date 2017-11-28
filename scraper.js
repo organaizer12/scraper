@@ -58,7 +58,8 @@ needle.get(URL, function(err, res){
 		      "lng": "30.370978"
 		    },
 		    "tag_ids": [
-		      null
+		      "1965",
+		      "1967"
 		    ],
 		    "url": resolve(URL, ref)
 

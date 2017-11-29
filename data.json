@@ -1,12 +1,12 @@
 [
   {
-    "name": "Двухместная палатка Nordway Dome 2",
-    "descr": "Двухслойная палатка для сухой тёплой погоды. Маленькая и лёгкая в собранном виде. Небольшой тамбур при входе, антимоскитная сетка на входной двери. Выдерживает непродолжительный дождь. Комфортно вмещает до двух человек.",
-    "price": 2500,
+    "name": "Трёхместная палатка Indiana Lagos 3",
+    "descr": "Палатка имеет два входа с небольшими тамбурами, антимоскитные сетки на окнах и дверях, вентиляционные окна. Комфортно вмещает до трёх человек.",
+    "price": 7000,
     "youtube_link": null,
     "is_ready_to_sale": false,
     "price_buy": "",
-    "deposit": "2500",
+    "deposit": "7000",
     "state": 3,
     "features": [
       {
@@ -22,7 +22,7 @@
     ],
     "priceOptions": [
       {
-        "price": "400",
+        "price": "600",
         "quantity": 1,
         "category": "2"
       }
@@ -35,7 +35,7 @@
     ],
     "shipping_type": "pickup",
     "urlPhotos": [
-      "http://prokatpalatok.ru/inventory/nordway2/inv1.jpg"
+      "http://prokatpalatok.ru/inventory/indiana/inv1.jpg"
     ],
     "location": {
       "address": "г. Санкт-Петербург, Витебский пр. 99 корп. 2",
@@ -46,7 +46,7 @@
       "1965",
       "1967"
     ],
-    "url": "http://prokatpalatok.ru/inventory/nordway2/"
+    "url": "http://prokatpalatok.ru/inventory/indiana/"
   },
   {
     "name": "Тент походный",
@@ -98,6 +98,251 @@
     "url": "http://prokatpalatok.ru/inventory/tent/"
   },
   {
+    "name": "Походный холодильник",
+    "descr": "Работает от автомобильного прикуривателя 12В. Сохраняет температуру предварительно охлаждённых продуктов. В комплекте прилагается охлаждающий брикет.",
+    "price": 3000,
+    "youtube_link": null,
+    "is_ready_to_sale": false,
+    "price_buy": "",
+    "deposit": "3000",
+    "state": 3,
+    "features": [
+      {
+        "name": null,
+        "quantity": null
+      }
+    ],
+    "equipments": [
+      {
+        "name": "деталь",
+        "quantity": "1"
+      }
+    ],
+    "priceOptions": [
+      {
+        "price": "400",
+        "quantity": 1,
+        "category": "2"
+      }
+    ],
+    "car_delivery": false,
+    "loader_wanted": false,
+    "far_delivery": false,
+    "handwriting_tags": [
+      "Снаряжение"
+    ],
+    "shipping_type": "pickup",
+    "urlPhotos": [
+      "http://prokatpalatok.ru/inventory/holod/inv1.jpg"
+    ],
+    "location": {
+      "address": "г. Санкт-Петербург, Витебский пр. 99 корп. 2",
+      "lat": "59.830452",
+      "lng": "30.370978"
+    },
+    "tag_ids": [
+      "1965",
+      "1998"
+    ],
+    "url": "http://prokatpalatok.ru/inventory/holod/"
+  },
+  {
+    "name": "Спальный мешок King Camp Breeze +7",
+    "descr": "Сезоны: весна, лето, осень.Спальник имеет двойную молнию, анатомический капюшон.",
+    "price": 1500,
+    "youtube_link": null,
+    "is_ready_to_sale": false,
+    "price_buy": "",
+    "deposit": "1500",
+    "state": 3,
+    "features": [
+      {
+        "name": null,
+        "quantity": null
+      }
+    ],
+    "equipments": [
+      {
+        "name": "деталь",
+        "quantity": "1"
+      }
+    ],
+    "priceOptions": [
+      {
+        "price": "300",
+        "quantity": 1,
+        "category": "2"
+      }
+    ],
+    "car_delivery": false,
+    "loader_wanted": false,
+    "far_delivery": false,
+    "handwriting_tags": [
+      "Снаряжение"
+    ],
+    "shipping_type": "pickup",
+    "urlPhotos": [
+      "http://prokatpalatok.ru/inventory/breeze/inv1.jpg"
+    ],
+    "location": {
+      "address": "г. Санкт-Петербург, Витебский пр. 99 корп. 2",
+      "lat": "59.830452",
+      "lng": "30.370978"
+    },
+    "tag_ids": [
+      "1965",
+      "1968"
+    ],
+    "url": "http://prokatpalatok.ru/inventory/breeze/"
+  },
+  {
+    "name": "Спальный мешок Talberg Grunten -27",
+    "descr": "Сезоны: осень, зима, весна.Супертеплый зимний спальник-кокон. Рассчитан на экстремальную температуру до -27°С.",
+    "price": 4700,
+    "youtube_link": null,
+    "is_ready_to_sale": false,
+    "price_buy": "",
+    "deposit": "4700",
+    "state": 3,
+    "features": [
+      {
+        "name": null,
+        "quantity": null
+      }
+    ],
+    "equipments": [
+      {
+        "name": "деталь",
+        "quantity": "1"
+      }
+    ],
+    "priceOptions": [
+      {
+        "price": "500",
+        "quantity": 1,
+        "category": "2"
+      }
+    ],
+    "car_delivery": false,
+    "loader_wanted": false,
+    "far_delivery": false,
+    "handwriting_tags": [
+      "Снаряжение"
+    ],
+    "shipping_type": "pickup",
+    "urlPhotos": [
+      "http://prokatpalatok.ru/inventory/grunten/inv1.jpg"
+    ],
+    "location": {
+      "address": "г. Санкт-Петербург, Витебский пр. 99 корп. 2",
+      "lat": "59.830452",
+      "lng": "30.370978"
+    },
+    "tag_ids": [
+      "1965",
+      "1968"
+    ],
+    "url": "http://prokatpalatok.ru/inventory/grunten/"
+  },
+  {
+    "name": "Туристический коврик",
+    "descr": "Эластичный термоизоляционный коврик. Предназначен для одного человека.",
+    "price": 600,
+    "youtube_link": null,
+    "is_ready_to_sale": false,
+    "price_buy": "",
+    "deposit": "600",
+    "state": 3,
+    "features": [
+      {
+        "name": null,
+        "quantity": null
+      }
+    ],
+    "equipments": [
+      {
+        "name": "деталь",
+        "quantity": "1"
+      }
+    ],
+    "priceOptions": [
+      {
+        "price": "13",
+        "quantity": 1,
+        "category": "2"
+      }
+    ],
+    "car_delivery": false,
+    "loader_wanted": false,
+    "far_delivery": false,
+    "handwriting_tags": [
+      "Снаряжение"
+    ],
+    "shipping_type": "pickup",
+    "urlPhotos": [
+      "http://prokatpalatok.ru/inventory/pad/inv1.jpg"
+    ],
+    "location": {
+      "address": "г. Санкт-Петербург, Витебский пр. 99 корп. 2",
+      "lat": "59.830452",
+      "lng": "30.370978"
+    },
+    "tag_ids": [
+      "1965",
+      "1969"
+    ],
+    "url": "http://prokatpalatok.ru/inventory/pad/"
+  },
+  {
+    "name": "Лёгкий спальный мешок Nordway Oregon +15",
+    "descr": "Сезоны: жаркое лето.Спальник можно использовать как одеяло или подстилку.",
+    "price": 1000,
+    "youtube_link": null,
+    "is_ready_to_sale": false,
+    "price_buy": "",
+    "deposit": "1000",
+    "state": 3,
+    "features": [
+      {
+        "name": null,
+        "quantity": null
+      }
+    ],
+    "equipments": [
+      {
+        "name": "деталь",
+        "quantity": "1"
+      }
+    ],
+    "priceOptions": [
+      {
+        "price": "200",
+        "quantity": 1,
+        "category": "2"
+      }
+    ],
+    "car_delivery": false,
+    "loader_wanted": false,
+    "far_delivery": false,
+    "handwriting_tags": [
+      "Снаряжение"
+    ],
+    "shipping_type": "pickup",
+    "urlPhotos": [
+      "http://prokatpalatok.ru/inventory/oregon/inv1.jpg"
+    ],
+    "location": {
+      "address": "г. Санкт-Петербург, Витебский пр. 99 корп. 2",
+      "lat": "59.830452",
+      "lng": "30.370978"
+    },
+    "tag_ids": [
+      "1965",
+      "1968"
+    ],
+    "url": "http://prokatpalatok.ru/inventory/oregon/"
+  },
+  {
     "name": "Трёхместная палатка Wickham 3",
     "descr": "Палатка с небольшим тамбуром, где можно оставить обувь. Предназначена для сухой тёплой погоды. Выдерживает кратковременный дождь. Комфортно вмещает до трёх человек.",
     "price": 6000,
@@ -145,55 +390,6 @@
       "1967"
     ],
     "url": "http://prokatpalatok.ru/inventory/wickham/"
-  },
-  {
-    "name": "Трёхместная палатка Indiana Lagos 3",
-    "descr": "Палатка имеет два входа с небольшими тамбурами, антимоскитные сетки на окнах и дверях, вентиляционные окна. Комфортно вмещает до трёх человек.",
-    "price": 7000,
-    "youtube_link": null,
-    "is_ready_to_sale": false,
-    "price_buy": "",
-    "deposit": "7000",
-    "state": 3,
-    "features": [
-      {
-        "name": null,
-        "quantity": null
-      }
-    ],
-    "equipments": [
-      {
-        "name": "деталь",
-        "quantity": "1"
-      }
-    ],
-    "priceOptions": [
-      {
-        "price": "600",
-        "quantity": 1,
-        "category": "2"
-      }
-    ],
-    "car_delivery": false,
-    "loader_wanted": false,
-    "far_delivery": false,
-    "handwriting_tags": [
-      "Снаряжение"
-    ],
-    "shipping_type": "pickup",
-    "urlPhotos": [
-      "http://prokatpalatok.ru/inventory/indiana/inv1.jpg"
-    ],
-    "location": {
-      "address": "г. Санкт-Петербург, Витебский пр. 99 корп. 2",
-      "lat": "59.830452",
-      "lng": "30.370978"
-    },
-    "tag_ids": [
-      "1965",
-      "1967"
-    ],
-    "url": "http://prokatpalatok.ru/inventory/indiana/"
   },
   {
     "name": "Четырёхместная палатка Quechua 4",
@@ -245,13 +441,13 @@
     "url": "http://prokatpalatok.ru/inventory/q4/"
   },
   {
-    "name": "Туристический коврик",
-    "descr": "Эластичный термоизоляционный коврик. Предназначен для одного человека.",
-    "price": 600,
+    "name": "Трёхместная палатка Quechua Easy 3",
+    "descr": "Быстрая установка и сборка. Выдерживает умеренный дождь. Комфортно вмещает до трёх человек.",
+    "price": 5000,
     "youtube_link": null,
     "is_ready_to_sale": false,
     "price_buy": "",
-    "deposit": "600",
+    "deposit": "5000",
     "state": 3,
     "features": [
       {
@@ -267,7 +463,7 @@
     ],
     "priceOptions": [
       {
-        "price": "13",
+        "price": "600",
         "quantity": 1,
         "category": "2"
       }
@@ -280,7 +476,7 @@
     ],
     "shipping_type": "pickup",
     "urlPhotos": [
-      "http://prokatpalatok.ru/inventory/pad/inv1.jpg"
+      "http://prokatpalatok.ru/inventory/q3/inv1.jpg"
     ],
     "location": {
       "address": "г. Санкт-Петербург, Витебский пр. 99 корп. 2",
@@ -291,7 +487,7 @@
       "1965",
       "1967"
     ],
-    "url": "http://prokatpalatok.ru/inventory/pad/"
+    "url": "http://prokatpalatok.ru/inventory/q3/"
   },
   {
     "name": "Семейная палатка Hannah Space 4+2",
@@ -343,13 +539,13 @@
     "url": "http://prokatpalatok.ru/inventory/hannah/"
   },
   {
-    "name": "Спальный мешок King Camp Breeze +7",
-    "descr": "Сезоны: весна, лето, осень.Спальник имеет двойную молнию, анатомический капюшон.",
-    "price": 1500,
+    "name": "Двухместная палатка Nordway Dome 2",
+    "descr": "Двухслойная палатка для сухой тёплой погоды. Маленькая и лёгкая в собранном виде. Небольшой тамбур при входе, антимоскитная сетка на входной двери. Выдерживает непродолжительный дождь. Комфортно вмещает до двух человек.",
+    "price": 2500,
     "youtube_link": null,
     "is_ready_to_sale": false,
     "price_buy": "",
-    "deposit": "1500",
+    "deposit": "2500",
     "state": 3,
     "features": [
       {
@@ -365,7 +561,7 @@
     ],
     "priceOptions": [
       {
-        "price": "300",
+        "price": "400",
         "quantity": 1,
         "category": "2"
       }
@@ -378,7 +574,7 @@
     ],
     "shipping_type": "pickup",
     "urlPhotos": [
-      "http://prokatpalatok.ru/inventory/breeze/inv1.jpg"
+      "http://prokatpalatok.ru/inventory/nordway2/inv1.jpg"
     ],
     "location": {
       "address": "г. Санкт-Петербург, Витебский пр. 99 корп. 2",
@@ -389,105 +585,7 @@
       "1965",
       "1967"
     ],
-    "url": "http://prokatpalatok.ru/inventory/breeze/"
-  },
-  {
-    "name": "Трёхместная палатка Quechua Easy 3",
-    "descr": "Быстрая установка и сборка. Выдерживает умеренный дождь. Комфортно вмещает до трёх человек.",
-    "price": 5000,
-    "youtube_link": null,
-    "is_ready_to_sale": false,
-    "price_buy": "",
-    "deposit": "5000",
-    "state": 3,
-    "features": [
-      {
-        "name": null,
-        "quantity": null
-      }
-    ],
-    "equipments": [
-      {
-        "name": "деталь",
-        "quantity": "1"
-      }
-    ],
-    "priceOptions": [
-      {
-        "price": "600",
-        "quantity": 1,
-        "category": "2"
-      }
-    ],
-    "car_delivery": false,
-    "loader_wanted": false,
-    "far_delivery": false,
-    "handwriting_tags": [
-      "Снаряжение"
-    ],
-    "shipping_type": "pickup",
-    "urlPhotos": [
-      "http://prokatpalatok.ru/inventory/q3/inv1.jpg"
-    ],
-    "location": {
-      "address": "г. Санкт-Петербург, Витебский пр. 99 корп. 2",
-      "lat": "59.830452",
-      "lng": "30.370978"
-    },
-    "tag_ids": [
-      "1965",
-      "1967"
-    ],
-    "url": "http://prokatpalatok.ru/inventory/q3/"
-  },
-  {
-    "name": "Лёгкий спальный мешок Nordway Oregon +15",
-    "descr": "Сезоны: жаркое лето.Спальник можно использовать как одеяло или подстилку.",
-    "price": 1000,
-    "youtube_link": null,
-    "is_ready_to_sale": false,
-    "price_buy": "",
-    "deposit": "1000",
-    "state": 3,
-    "features": [
-      {
-        "name": null,
-        "quantity": null
-      }
-    ],
-    "equipments": [
-      {
-        "name": "деталь",
-        "quantity": "1"
-      }
-    ],
-    "priceOptions": [
-      {
-        "price": "200",
-        "quantity": 1,
-        "category": "2"
-      }
-    ],
-    "car_delivery": false,
-    "loader_wanted": false,
-    "far_delivery": false,
-    "handwriting_tags": [
-      "Снаряжение"
-    ],
-    "shipping_type": "pickup",
-    "urlPhotos": [
-      "http://prokatpalatok.ru/inventory/oregon/inv1.jpg"
-    ],
-    "location": {
-      "address": "г. Санкт-Петербург, Витебский пр. 99 корп. 2",
-      "lat": "59.830452",
-      "lng": "30.370978"
-    },
-    "tag_ids": [
-      "1965",
-      "1967"
-    ],
-    "url": "http://prokatpalatok.ru/inventory/oregon/"
+    "url": "http://prokatpalatok.ru/inventory/nordway2/"
   },
   {
     "name": "Складной стол с 4 табуретами",
@@ -534,7 +632,7 @@
     },
     "tag_ids": [
       "1965",
-      "1967"
+      "1998"
     ],
     "url": "http://prokatpalatok.ru/inventory/table/"
   },
@@ -583,106 +681,8 @@
     },
     "tag_ids": [
       "1965",
-      "1967"
+      "10313"
     ],
     "url": "http://prokatpalatok.ru/inventory/vitim100/"
-  },
-  {
-    "name": "Походный холодильник",
-    "descr": "Работает от автомобильного прикуривателя 12В. Сохраняет температуру предварительно охлаждённых продуктов. В комплекте прилагается охлаждающий брикет.",
-    "price": 3000,
-    "youtube_link": null,
-    "is_ready_to_sale": false,
-    "price_buy": "",
-    "deposit": "3000",
-    "state": 3,
-    "features": [
-      {
-        "name": null,
-        "quantity": null
-      }
-    ],
-    "equipments": [
-      {
-        "name": "деталь",
-        "quantity": "1"
-      }
-    ],
-    "priceOptions": [
-      {
-        "price": "400",
-        "quantity": 1,
-        "category": "2"
-      }
-    ],
-    "car_delivery": false,
-    "loader_wanted": false,
-    "far_delivery": false,
-    "handwriting_tags": [
-      "Снаряжение"
-    ],
-    "shipping_type": "pickup",
-    "urlPhotos": [
-      "http://prokatpalatok.ru/inventory/holod/inv1.jpg"
-    ],
-    "location": {
-      "address": "г. Санкт-Петербург, Витебский пр. 99 корп. 2",
-      "lat": "59.830452",
-      "lng": "30.370978"
-    },
-    "tag_ids": [
-      "1965",
-      "1967"
-    ],
-    "url": "http://prokatpalatok.ru/inventory/holod/"
-  },
-  {
-    "name": "Спальный мешок Talberg Grunten -27",
-    "descr": "Сезоны: осень, зима, весна.Супертеплый зимний спальник-кокон. Рассчитан на экстремальную температуру до -27°С.",
-    "price": 4700,
-    "youtube_link": null,
-    "is_ready_to_sale": false,
-    "price_buy": "",
-    "deposit": "4700",
-    "state": 3,
-    "features": [
-      {
-        "name": null,
-        "quantity": null
-      }
-    ],
-    "equipments": [
-      {
-        "name": "деталь",
-        "quantity": "1"
-      }
-    ],
-    "priceOptions": [
-      {
-        "price": "500",
-        "quantity": 1,
-        "category": "2"
-      }
-    ],
-    "car_delivery": false,
-    "loader_wanted": false,
-    "far_delivery": false,
-    "handwriting_tags": [
-      "Снаряжение"
-    ],
-    "shipping_type": "pickup",
-    "urlPhotos": [
-      "http://prokatpalatok.ru/inventory/grunten/inv1.jpg"
-    ],
-    "location": {
-      "address": "г. Санкт-Петербург, Витебский пр. 99 корп. 2",
-      "lat": "59.830452",
-      "lng": "30.370978"
-    },
-    "tag_ids": [
-      "1965",
-      "1967"
-    ],
-    "url": "http://prokatpalatok.ru/inventory/grunten/"
   }
 ]
